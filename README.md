@@ -69,7 +69,8 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 ![Predicting Diabetes Onset](assets/eat-november-is-diabetes-awareness-month.png.png)
 
 ### Brewing Success: Enhancing Independent Coffee Shop Visibility Through Online Reviews
+[Publication](https://github.com/Musksss/Research-design-whats-brewing/tree/main)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+Employing **R** for analysis, this research study delved into pertinent inquiries within the coffee shop industry, employing robust statistical methodologies. **Descriptive statistics**, including mean, median, mode, and standard deviation, offered a comprehensive understanding of data distribution. Further, the study utilized the **two-sample one-sided proportion test** to ascertain the significance of disparities in customer visit intentions concerning response strategies. This investigation revolves around the impact of coffee shop owner responses on customer visit intentions, coupled with the influence of response tone. Objectives encompass scrutinizing the effect of owner responses on customer visit intentions and evaluating how response tone—whether formal or casual—affects customer perceptions. Through the adept use of advanced statistical techniques and simulations, the aim is to furnish nuanced insights into customer behavior amidst the digital landscape.
 
 ![Brewing Success](/assets/How-To-Start-A-Coffee-Shop-Business-A-Complete-Guide.jpeg)
