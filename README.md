@@ -1,4 +1,4 @@
-# Data Scientist
+# [Data Scientist](/assets/51gPXZhpjAL._UL1500_.jpg)
 
 ### Education
 MS Applied Analytics
