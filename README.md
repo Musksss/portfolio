@@ -92,15 +92,15 @@ Employing **R** for analysis, this research study delved into pertinent inquirie
 
 ### Applications and Technologies
 
-•	Python (Pandas, Matplotlib, scikit-learn, NumPy)	•	Data Visualization (Tableau, Power BI, QuickSight, MS Excel, QlikView)
-•	SQL (MySQL, PostgreSQL, SQL Server, Oracle)	•	Problem Solving and Critical Thinking
-•	R (Tidyverse, randomForest, Caret, Shiny)	•	Strong Verbal & Written Communication
-•	NoSQL (Mongo DB, Neo4j, Hadoop)
+- Python (Pandas, Matplotlib, scikit-learn, NumPy)	•	Data Visualization (Tableau, Power BI, QuickSight, MS Excel, QlikView)
+- SQL (MySQL, PostgreSQL, SQL Server, Oracle)	•	Problem Solving and Critical Thinking
+- R (Tidyverse, randomForest, Caret, Shiny)	•	Strong Verbal & Written Communication
+- NoSQL (Mongo DB, Neo4j, Hadoop)
 
 **Other Applications and Tools:** MS PowerPoint, Jira, Confluence, Salesforce, MS office, Zapier, Mailchimp, HubSpot, Github, Docker, Hadoop, Pyspark, MLlib
 
 ### CERTIFICATIONS
 
-•	Google Data Analytics Professional Certificate (Coursera, 2022)
-•	Google Advanced Data Analytics Professional Certificate (Coursera ,2021) 
-•	IBM Data Science (Coursera, 2022)
+- Google Data Analytics Professional Certificate (Coursera, 2022)
+- Google Advanced Data Analytics Professional Certificate (Coursera ,2021)
+- IBM Data Science (Coursera, 2022)
