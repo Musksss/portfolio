@@ -37,34 +37,39 @@
 
 
 ## Projects
-### New York Taxi Tip prediction
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Predictive Insights: NYC Taxi Tip Forecasting and Receipt Probability Analysis
+[Publication](https://github.com/Musksss/NYC-Taxi-Tip-Forecasting))
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Directed the NYC Taxi Tip Prediction project, orchestrating comprehensive data analysis and predictive modeling endeavors. Employed **R** programming alongside libraries such as **ggplot2**, **caret**, and **mgcv** to delve into the intricacies of NYC taxi trip data. Segmented datasets using advanced data partitioning techniques and crafted visualizations to discern nuanced relationships between variables. Implemented a spectrum of predictive models, including **linear regression** and **logistic regression**, to forecast tip amounts and predict tip receipt probabilities based on factors like trip distance, time of day, and passenger count. Executed rigorous testing and evaluation, including **Root Mean Squared Error** (RMSE) calculations for regression models and **Receiver Operating Characteristic** (ROC) curve analysis for logistic regression, to validate the robustness of models on test datasets. This project underscores proficiency in statistical analysis, data visualization, and predictive modeling techniques across diverse domains.
 
 ![New York Taxi Tip prediction](assets/taxi-min-1024x1024.jpeg)
 
 ### Car Price Prediction
+[Publication](https://github.com/Musksss/How-much-is-your-car-worth-)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+Led a comprehensive analysis for the Kaggle Car Price Prediction competition, utilizing **R** for data exploration, preprocessing, and model selection. Implemented a range of machine learning models including **xgboost**, **linear regression**, and **random forest**, optimizing model performance based on root mean square error (**RMSE**). Documented the analytical process and diagnostic steps for model enhancement, showcasing a retrospective understanding of predictive modeling complexities.
 
 ![Car Price Prediction](assets/used-car-1024x576.png)
 
 ### Empowering Futures: Career Design Lab's blueprint for Applied Analytics graduates
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+Crafted and spearheaded the development of an Enhanced Job Search Model, leveraging my expertise in **Tableau** to create diverse types of visualizations and interactive dashboards tailored for students at Columbia University's School of Professional Studies, particularly those in the Applied Analytics program. Additionally, I utilized **Python** for in-depth analysis, extracting actionable insights from complex datasets. I transformed data into comprehensive career guidance resources by employing advanced visualization techniques, such as heat maps, scatter plots, and interactive filters, empowering students with valuable insights for their post-graduate employment endeavors. This project highlighted my proficiency in both Tableau and Python and showcased my ability to utilize these tools effectively in data-driven projects.
 
 ![Empowering Futures](/assets/default-og-image.png)
 
 ### The Weeknd World Tour: Dawn's Echo
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+Engaged in a project that brought together abilities to gather necessary datasets to support the operation of a twelve-month worldwide concert tour for The Weeknd. Converted the datasets into a functioning relational database, utilizing the data to run the tour and its peripheral businesses. Datasets were gathered to successfully organize and run the tour, including digital assets (images, videos) to enhance the app. Normalized (to 3NF), extracted, transformed, and loaded (**ETL**) the necessary pieces from the raw datasets to create a fully functioning relational database. Server space was provided to house the database. Built a Shiny app in R to showcase the results interactively and intuitively. The app connected to the database and contained all the SQL queries used to supply the data needed for the user to engage in the app. 
+
+Users could view the dates and locations of each concert event during the tour. They had the opportunity to explore The Weeknd's musical assets, such as their discography, sample music videos, and lyrics to their popular songs, and buy merchandise. Users could plan a visit to the concert location city by having options for lodging, dining, and activities. Each user was also entered into a raffle to win a private concert ticket.
+
+The project demonstrates proficiency in **SQL** (PostgresQL), **relational database management**, and **R programming** through the development of a Shiny web app for The Weeknd's world tour, integrating diverse datasets and providing interactive user engagement.
 
 ![The Weeknd World Tour](/assets/Screenshot 2024-04-25 at 4.35.08 PM.png)
 
 ### Predicting Diabetes Onset: Examining the Interplay Between Demographics, Medical Conditions, and Lifestyle Factors
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+This project is focused on improving our ability to predict the onset of diabetes by examining the intricate relationship between demographics, medical problems, and lifestyle decisions. The goal of the project is to create a prediction model to identify individuals at risk of developing diabetes. Advanced statistical methods, including **logistic regression**, **random forest**, and **gradient boosting** models, are utilized. Meanwhile, the prediction model is developed using comprehensive datasets containing diverse demographic variables, medical histories, and lifestyle habits, including smoking status. All these analyses are conducted using **R** and **RStudio**.
 
 ![Predicting Diabetes Onset](assets/eat-november-is-diabetes-awareness-month.png.png)
 
@@ -74,3 +79,28 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 Employing **R** for analysis, this research study delved into pertinent inquiries within the coffee shop industry, employing robust statistical methodologies. **Descriptive statistics**, including mean, median, mode, and standard deviation, offered a comprehensive understanding of data distribution. Further, the study utilized the **two-sample one-sided proportion test** to ascertain the significance of disparities in customer visit intentions concerning response strategies. This investigation revolves around the impact of coffee shop owner responses on customer visit intentions, coupled with the influence of response tone. Objectives encompass scrutinizing the effect of owner responses on customer visit intentions and evaluating how response tone—whether formal or casual—affects customer perceptions. Through the adept use of advanced statistical techniques and simulations, the aim is to furnish nuanced insights into customer behavior amidst the digital landscape.
 
 ![Brewing Success](/assets/How-To-Start-A-Coffee-Shop-Business-A-Complete-Guide.jpeg)
+
+
+## Skills
+
+- Machine Learning
+- Data Modeling
+- Deep Learning
+- Natural Language Processing
+- Research Design, Managing Data
+- Advanced Statistical Analysis
+
+### Applications and Technologies
+
+•	Python (Pandas, Matplotlib, scikit-learn, NumPy)	•	Data Visualization (Tableau, Power BI, QuickSight, MS Excel, QlikView)
+•	SQL (MySQL, PostgreSQL, SQL Server, Oracle)	•	Problem Solving and Critical Thinking
+•	R (Tidyverse, randomForest, Caret, Shiny)	•	Strong Verbal & Written Communication
+•	NoSQL (Mongo DB, Neo4j, Hadoop)
+
+**Other Applications and Tools:** MS PowerPoint, Jira, Confluence, Salesforce, MS office, Zapier, Mailchimp, HubSpot, Github, Docker, Hadoop, Pyspark, MLlib
+
+### CERTIFICATIONS
+
+•	Google Data Analytics Professional Certificate (Coursera, 2022)
+•	Google Advanced Data Analytics Professional Certificate (Coursera ,2021) 
+•	IBM Data Science (Coursera, 2022)
