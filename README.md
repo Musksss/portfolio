@@ -8,13 +8,11 @@
 
 
 ## Work Experience
-**Operations Analyst Intern @ Roland Foods (_May 2024 - Present_)**
-- Implemented supervised learning for EV charging operations, achieving an 18% downtime reduction with 92% accuracy in real-time fault detection
-- Led a team of 5 to build the Charger Tracking System using tools like Power Automate, QuickSight, and MS Excel and SQL in use by 6 departments of the organization; reduced TAT time by 12 days, cutting down the number of internal emails by 78%
-- Executed exploratory data analysis to understand historical supply chain performance and forecasting future demand for Chargers, resulting in a 15% reduction in stockouts and excess inventory
-- Utilized and deployed ML models for analyzing transportation, achieving a 20% reduction in lead times and cost savings
-- Automated Workflow Processes, Reporting, Task and Inventory Management using Power Automate and Zapier, resulting in real-time KPI tracking for project managers, streamlining routine and manual tasks, reducing errors and improving efficiency
-- Utilized SQL extensively in day-to-day work for data querying, manipulation, and analysis, enabling efficient extraction of insights and support for decision-making processes.
+**Revenue Management Analyst Intern @ Roland Foods (_May 2024 - Present_)**
+- Developed and implemented a demand and supply replenishment tool in Excel with automated email notifications via Power Automate, leading to a $2 million inventory reduction in 6 weeks by analyzing stock levels and identifying excess inventory, improving turnover and communication efficiency.
+- Created pricing models in Python for Excessive, Discontinued, and Expired (EDE) items to maximize revenue from the EDE product pipeline
+- Designed and maintained Tableau dashboards for the Active Item Report, ensuring data integrity through logic checks and regular updates, facilitating informed decision-making
+- Analyzed Contracts and Claims data to develop a revenue forecasting model, providing actionable insights for future sales and revenue planning
 
 **Operations Analyst @ Statiq (_November 2021 - August 2023_)**
 - Implemented supervised learning for EV charging operations, achieving an 18% downtime reduction with 92% accuracy in real-time fault detection
