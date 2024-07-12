@@ -9,8 +9,6 @@
 
 ## Work Experience
 **Revenue Management Analyst Intern @ Roland Foods (_May 2024 - Present_)**
-- Developed and implemented a demand and supply replenishment tool in Excel with automated email notifications via Power Automate, leading to a $2 million inventory reduction in 6 weeks by analyzing stock levels and identifying excess inventory, improving turnover and communication efficiency.
-- Created pricing models in Python for Excessive, Discontinued, and Expired (EDE) items to maximize revenue from the EDE product pipeline
 - Designed and maintained Tableau dashboards for the Active Item Report, ensuring data integrity through logic checks and regular updates, facilitating informed decision-making
 - Analyzed Contracts and Claims data to develop a revenue forecasting model, providing actionable insights for future sales and revenue planning
 
