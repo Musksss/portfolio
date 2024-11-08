@@ -1,7 +1,5 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, R, MongoDB, Neo4j, Tableau, Machine Learning
-
 ## Education								       		
 - M.Sc., Applied Analytics	| Columbia University, New York (_December 2024_)	 			        		
 - B.A., Political Science | Delhi University, India (_June 2020_)
@@ -9,13 +7,13 @@
 
 ## Work Experience
 **Data Science Intern- Revenue Management @ Roland Foods (_May 2024 - Present_)**
-- Developed an end-to-end summarization tool using Generative AI (RAG, T5) and NLP (SpaCy) for targeted Claims and Contracts retrieval reducing document review time, Integrated user-friendly deployment via Flask
+- Developed an end-to-end summarization tool using **Generative AI** (RAG, T5) and **NLP** (SpaCy) for targeted Claims and Contracts retrieval reducing document review time, Integrated user-friendly deployment via Flask
 - Developed and implemented a demand and supply replenishment tool with automated emails using Power Automate, leading to a $300K inventory reduction in 6 weeks by analyzing stock levels and identifying excess inventory, improving turnover and communication efficiency
 - Created pricing models in Python for Excessive, Discontinued, and Expired (EDE) items to maximize revenue from the EDE product pipeline
 - Redesigned and updated the Active Items Report using D365, ensuring data integrity through logic checks and regular updates in Tableau, facilitating informed decision-making across departments
 
 **Technicala Business Analyst @ Statiq (_November 2021 - August 2023_)**
-- Developed an automated NLP pipeline using TextBlob for sentiment analysis and CountVectorizer for keyword extraction to transcribe and analyze customer service calls, assess representative performance, and identify product-related issues
+- Developed an **automated NLP pipeline** using TextBlob for **sentiment analysis** and **CountVectorizer** for keyword extraction to transcribe and analyze customer service calls, assess representative performance, and identify product-related issues
 - Led project management of the Charger Tracking System using tools like Power Automate, QuickSight, and MS Excel in use by 6 departments of the organization; reduced TAT time by 12 days, cutting down the number of internal emails by 78%
 - Executed exploratory data analysis to understand historical supply chain performance and forecasting future demand for Chargers, resulting in a 15% reduction in stockouts and excess inventory
 - Utilized and deployed ML models for analyzing transportation, achieving a 20% reduction in lead times and cost savings
@@ -38,7 +36,7 @@
 ## Projects
 ### AI Powered Customer Support Chatbot: BrewAI
 
-Developed an end-to-end personalized AI chatbot for a coffee shop using PyTorch and NLTK, incorporating a feedforward neural network and NLP techniques like tokenization, stemming, and bag-of-words to improve customer interactions. This chatbot was designed to handle queries about menu items, store locations, and promotions, providing real-time responses directly on the website. With an intent recognition accuracy of 85%, the system reduced query resolution time by 20%. In its first three months, the chatbot processed over 2,000 inquiries, reducing human intervention by 30% and boosting customer satisfaction by 25% based on follow-up surveys. As an end-to-end project, I managed everything from data collection and model training to deployment and ongoing optimization, enhancing both user experience and operational efficiency
+Developed an end-to-end personalized AI chatbot for a coffee shop using **PyTorch** and **NLTK**, incorporating a **feedforward neural network** and NLP techniques like **tokenization**, **stemming**, and **bag-of-words** to improve customer interactions. This chatbot was designed to handle queries about menu items, store locations, and promotions, providing real-time responses directly on the website. With an intent recognition accuracy of 85%, the system reduced query resolution time by 20%. In its first three months, the chatbot processed over 2,000 inquiries, reducing human intervention by 30% and boosting customer satisfaction by 25% based on follow-up surveys. As an end-to-end project, I managed everything from data collection and model training to deployment and ongoing optimization, enhancing both user experience and operational efficiency
 
 
 
@@ -64,7 +62,7 @@ Crafted and spearheaded the development of an Enhanced Job Search Model, leverag
 
 ### The Weeknd World Tour: Dawn's Echo
 
-Engaged in a project that brought together abilities to gather necessary datasets to support the operation of a twelve-month worldwide concert tour for The Weeknd. Converted the datasets into a functioning relational database, utilizing the data to run the tour and its peripheral businesses. Datasets were gathered to successfully organize and run the tour, including digital assets (images, videos) to enhance the app. Normalized (to 3NF), extracted, transformed, and loaded (**ETL**) the necessary pieces from the raw datasets to create a fully functioning relational database. Server space was provided to house the database. Built a Shiny app in R to showcase the results interactively and intuitively. The app connected to the database and contained all the SQL queries used to supply the data needed for the user to engage in the app. 
+Engaged in a project that brought together abilities to gather necessary datasets to support the operation of a twelve-month worldwide concert tour for The Weeknd. Converted the datasets into a functioning **relational database**, utilizing the data to run the tour and its peripheral businesses. Datasets were gathered to successfully organize and run the tour, including digital assets (images, videos) to enhance the app. Normalized (to 3NF), extracted, transformed, and loaded (**ETL**) the necessary pieces from the raw datasets to create a fully functioning relational database. Server space was provided to house the database. Built a Shiny app in R to showcase the results interactively and intuitively. The app connected to the database and contained all the SQL queries used to supply the data needed for the user to engage in the app. 
 
 Users could view the dates and locations of each concert event during the tour. They had the opportunity to explore The Weeknd's musical assets, such as their discography, sample music videos, and lyrics to their popular songs, and buy merchandise. Users could plan a visit to the concert location city by having options for lodging, dining, and activities. Each user was also entered into a raffle to win a private concert ticket.
 
@@ -87,27 +85,27 @@ Employing **R** for analysis, this research study delved into pertinent inquirie
 
 
 ## Skills
-**Machine Learning** (Supervised & Unsupervised Learning, Classification, Regression, Clustering)
-**Data Modeling** (Feature Engineering, Model Evaluation, Hyperparameter Tuning)
-**Deep Learning** (Neural Networks, CNNs, RNNs, LSTMs, GANs)
-**Natural Language Processing** (Text Preprocessing, Tokenization, Stemming, Named Entity Recognition, Sentiment Analysis, Word Embeddings, Transformers, RAG – Retrieval-Augmented Generation, Langchain)
-**Artificial Intelligence** (AI Model Development, Reinforcement Learning, Generative AI)
-**Research Design & Managing Data** (Data Wrangling, Data Cleaning, Experimental Design)
-**Advanced Statistical Analysis** (Hypothesis Testing, A/B Testing, Probability, Time Series Analysis)
+- **Machine Learning** (Supervised & Unsupervised Learning, Classification, Regression, Clustering)
+- **Data Modeling** (Feature Engineering, Model Evaluation, Hyperparameter Tuning)
+- **Deep Learning** (Neural Networks, CNNs, RNNs, LSTMs, GANs)
+- **Natural Language Processing** (Text Preprocessing, Tokenization, Stemming, Named Entity Recognition, Sentiment Analysis, Word Embeddings, Transformers, RAG – Retrieval-Augmented Generation, Langchain)
+- **Artificial Intelligence** (AI Model Development, Reinforcement Learning, Generative AI)
+- **Research Design & Managing Data** (Data Wrangling, Data Cleaning, Experimental Design)
+- **Advanced Statistical Analysis** (Hypothesis Testing, A/B Testing, Probability, Time Series Analysis)
 
 ## Applications and Technologies
-**Python** (Pandas, NumPy, Matplotlib, scikit-learn, TensorFlow, PyTorch, NLTK, spaCy, Hugging Face)
-**Data Visualization** (Tableau, Power BI, QuickSight, MS Excel, QlikView, Matplotlib, Seaborn)
-**SQL** (MySQL, PostgreSQL, SQL Server, Oracle)
-**R** (Tidyverse, randomForest, Caret, Shiny, ggplot2)
-**Cloud Platforms** (AWS, GCP, Azure)
-**Big Data Technologies** (Hadoop, Spark, Pyspark, MLlib)
-**NoSQL Databases** (MongoDB, Neo4j)
-**MLOps** (Model Deployment, Docker, Kubernetes, AWS Sagemaker, GCP AI Platform)
-**Version Control** (Git, GitHub, GitLab)
+- **Python** (Pandas, NumPy, Matplotlib, scikit-learn, TensorFlow, PyTorch, NLTK, spaCy, Hugging Face)
+- **Data Visualization** (Tableau, Power BI, QuickSight, MS Excel, QlikView, Matplotlib, Seaborn)
+- **SQL** (MySQL, PostgreSQL, SQL Server, Oracle)
+- **R** (Tidyverse, randomForest, Caret, Shiny, ggplot2)
+- **Cloud Platforms** (AWS, GCP, Azure)
+- **Big Data Technologies** (Hadoop, Spark, Pyspark, MLlib)
+- **NoSQL Databases** (MongoDB, Neo4j)
+- **MLOps** (Model Deployment, Docker, Kubernetes, AWS Sagemaker, GCP AI Platform)
+- **Version Control** (Git, GitHub, GitLab)
 
-### Other Applications and Tools: MS PowerPoint, Jira, Confluence, Salesforce, MS Office, Zapier, Mailchimp, HubSpot, Docker, Kubernetes
+### Other Applications and Tools: MS SharePoint, Jira, Confluence, Salesforce, MS Office, Zapier, Mailchimp, HubSpot
 
 ### Certifications
-- Google Data Analytics Professional Certificate (Coursera, 2022) ![License](https://www.coursera.org/account/accomplishments/professional-cert/82M75FQAEJ7C)
+- Google Data Analytics Professional Certificate (Coursera, 2022) [License](https://www.coursera.org/account/accomplishments/professional-cert/82M75FQAEJ7C)
 - IBM Data Science (Coursera, 2022)
