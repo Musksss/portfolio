@@ -63,27 +63,27 @@ Developed an end-to-end personalized AI chatbot for a coffee shop using **PyTorc
 
 
 
-### Predictive Insights: NYC Taxi Tip Forecasting and Receipt Probability Analysis
+### NYC Taxi Insights: Predictive Analytics for Tip Forecasting and Behavior Analysis
 [Publication](https://github.com/Musksss/NYC-Taxi-Tip-Forecasting))
 
 Directed the NYC Taxi Tip Prediction project, orchestrating comprehensive data analysis and predictive modeling endeavors. Employed **R** programming alongside libraries such as **ggplot2**, **caret**, and **mgcv** to delve into the intricacies of NYC taxi trip data. Segmented datasets using advanced data partitioning techniques and crafted visualizations to discern nuanced relationships between variables. Implemented a spectrum of predictive models, including **linear regression** and **logistic regression**, to forecast tip amounts and predict tip receipt probabilities based on factors like trip distance, time of day, and passenger count. Executed rigorous testing and evaluation, including **Root Mean Squared Error** (RMSE) calculations for regression models and **Receiver Operating Characteristic** (ROC) curve analysis for logistic regression, to validate the robustness of models on test datasets. This project underscores proficiency in statistical analysis, data visualization, and predictive modeling techniques across diverse domains.
 
 ![New York Taxi Tip prediction](assets/taxi-min-1024x1024.jpeg)
 
-### Car Price Prediction
+### Advanced ML Algorithms for Car Price Forecasting: How Much is Your Car Worth?
 [Publication](https://github.com/Musksss/How-much-is-your-car-worth-)
 
 Led a comprehensive analysis for the Kaggle Car Price Prediction competition, utilizing **R** for data exploration, preprocessing, and model selection. Implemented a range of machine learning models including **xgboost**, **linear regression**, and **random forest**, optimizing model performance based on root mean square error (**RMSE**). Documented the analytical process and diagnostic steps for model enhancement, showcasing a retrospective understanding of predictive modeling complexities.
 
 ![Car Price Prediction](assets/used-car-1024x576.png)
 
-### Empowering Futures: Career Design Lab's blueprint for Applied Analytics graduates
+### CareerVision: Data-Driven Job Search Optimization for Analytics Graduates
 
 Crafted and spearheaded the development of an Enhanced Job Search Model, leveraging my expertise in **Tableau** to create diverse types of visualizations and interactive dashboards tailored for students at Columbia University's School of Professional Studies, particularly those in the Applied Analytics program. Additionally, I utilized **Python** for in-depth analysis, extracting actionable insights from complex datasets. I transformed data into comprehensive career guidance resources by employing advanced visualization techniques, such as heat maps, scatter plots, and interactive filters, empowering students with valuable insights for their post-graduate employment endeavors. This project highlighted my proficiency in both Tableau and Python and showcased my ability to utilize these tools effectively in data-driven projects.
 
 ![Empowering Futures](/assets/default-og-image.png)
 
-### The Weeknd World Tour: Dawn's Echo
+### Data-Driven Tour Management Suite: R-Based Interactive Platform for The Weeknd's Global Concerts
 
 Engaged in a project that brought together abilities to gather necessary datasets to support the operation of a twelve-month worldwide concert tour for The Weeknd. Converted the datasets into a functioning **relational database**, utilizing the data to run the tour and its peripheral businesses. Datasets were gathered to successfully organize and run the tour, including digital assets (images, videos) to enhance the app. Normalized (to 3NF), extracted, transformed, and loaded (**ETL**) the necessary pieces from the raw datasets to create a fully functioning relational database. Server space was provided to house the database. Built a Shiny app in R to showcase the results interactively and intuitively. The app connected to the database and contained all the SQL queries used to supply the data needed for the user to engage in the app. 
 
@@ -93,13 +93,13 @@ The project demonstrates proficiency in **SQL** (PostgresQL), **relational datab
 
 ![The Weeknd World Tour](/assets/Screenshot 2024-04-25 at 4.35.08 PM.png)
 
-### Predicting Diabetes Onset: Examining the Interplay Between Demographics, Medical Conditions, and Lifestyle Factors
+### DiabeTech: Predictive Modeling for Early Detection of Diabetes Risk Factors
 
 This project is focused on improving our ability to predict the onset of diabetes by examining the intricate relationship between demographics, medical problems, and lifestyle decisions. The goal of the project is to create a prediction model to identify individuals at risk of developing diabetes. Advanced statistical methods, including **logistic regression**, **random forest**, and **gradient boosting** models, are utilized. Meanwhile, the prediction model is developed using comprehensive datasets containing diverse demographic variables, medical histories, and lifestyle habits, including smoking status. All these analyses are conducted using **R** and **RStudio**.
 
 ![Predicting Diabetes Onset](assets/eat-november-is-diabetes-awareness-month.png.png)
 
-### Brewing Success: Enhancing Independent Coffee Shop Visibility Through Online Reviews
+### ReviewImpact Analytics: Quantitative Study of Response Strategies on Customer Engagement
 [Publication](https://github.com/Musksss/Research-design-whats-brewing/tree/main)
 
 Employing **R** for analysis, this research study delved into pertinent inquiries within the coffee shop industry, employing robust statistical methodologies. **Descriptive statistics**, including mean, median, mode, and standard deviation, offered a comprehensive understanding of data distribution. Further, the study utilized the **two-sample one-sided proportion test** to ascertain the significance of disparities in customer visit intentions concerning response strategies. This investigation revolves around the impact of coffee shop owner responses on customer visit intentions, coupled with the influence of response tone. Objectives encompass scrutinizing the effect of owner responses on customer visit intentions and evaluating how response tone—whether formal or casual—affects customer perceptions. Through the adept use of advanced statistical techniques and simulations, the aim is to furnish nuanced insights into customer behavior amidst the digital landscape.
@@ -121,11 +121,11 @@ Employing **R** for analysis, this research study delved into pertinent inquirie
 - **Data Visualization** (Tableau, Power BI, QuickSight, MS Excel, QlikView, Matplotlib, Seaborn)
 - **SQL** (MySQL, PostgreSQL, SQL Server, Oracle)
 - **R** (Tidyverse, randomForest, Caret, Shiny, ggplot2)
-- **Cloud Platforms** (AWS, GCP, Azure)
+- **Cloud Platforms** (AWS, Azure)
 - **Big Data Technologies** (Hadoop, Spark, Pyspark, MLlib)
 - **NoSQL Databases** (MongoDB, Neo4j)
 - **MLOps** (Model Deployment, Docker, Kubernetes, AWS Sagemaker, GCP AI Platform)
-- **Version Control** (Git, GitHub, GitLab)
+- **Version Control** (Git, GitHub)
 
 ### Other Applications and Tools: MS SharePoint, Jira, Confluence, Salesforce, MS Office, Zapier, Mailchimp, HubSpot
 
