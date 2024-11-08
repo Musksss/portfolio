@@ -2,6 +2,7 @@
 
 
 ## Table of Contents
+
 1. [Education](#education)
 2. [Work Experience](#work-experience)
    - [Data Science Intern - Revenue Management @ Roland Foods](#data-science-intern--revenue-management--roland-foods)
@@ -10,12 +11,12 @@
    - [Market Research Analyst @ Publicis Groupe, Arc Worldwide](#market-research-analyst--publicis-groupe-arc-worldwide)
 3. [Projects](#projects)
    - [AI Powered Customer Support Chatbot: BrewAI](#ai-powered-customer-support-chatbot-brewai)
-   - [Predictive Insights: NYC Taxi Tip Forecasting and Receipt Probability Analysis](#predictive-insights-nyc-taxi-tip-forecasting-and-receipt-probability-analysis)
-   - [Car Price Prediction](#car-price-prediction)
-   - [Empowering Futures: Career Design Lab's blueprint for Applied Analytics graduates](#empowering-futures-career-design-labs-blueprint-for-applied-analytics-graduates)
-   - [The Weeknd World Tour: Dawn's Echo](#the-weeknd-world-tour-dawns-echo)
-   - [Predicting Diabetes Onset: Examining the Interplay Between Demographics, Medical Conditions, and Lifestyle Factors](#predicting-diabetes-onset-examining-the-interplay-between-demographics-medical-conditions-and-lifestyle-factors)
-   - [Brewing Success: Enhancing Independent Coffee Shop Visibility Through Online Reviews](#brewing-success-enhancing-independent-coffee-shop-visibility-through-online-reviews)
+   - [DiabeTech: Predictive Modeling for Early Detection of Diabetes Risk Factors](#diabetech-predictive-modeling-for-early-detection-of-diabetes-risk-factors)
+   - [NYC Taxi Insights: Predictive Analytics for Tip Forecasting and Behavior Analysis](#nyc-taxi-insights-predictive-analytics-for-tip-forecasting-and-behavior-analysis)
+   - [Advanced ML Algorithms for Car Price Forecasting: How Much is Your Car Worth?](#advanced-ml-algorithms-for-car-price-forecasting-how-much-is-your-car-worth)
+   - [CareerVision: Data-Driven Job Search Optimization for Analytics Graduates](#careervision-data-driven-job-search-optimization-for-analytics-graduates)
+   - [Data-Driven Tour Management Suite: R-Based Interactive Platform for The Weeknd's Global Concerts](#data-driven-tour-management-suite-r-based-interactive-platform-for-the-weeknds-global-concerts)
+   - [ReviewImpact Analytics: Quantitative Study of Response Strategies on Customer Engagement](#reviewimpact-analytics-quantitative-study-of-response-strategies-on-customer-engagement)
 4. [Skills](#skills)
 5. [Applications and Technologies](#applications-and-technologies)
 6. [Certifications](#certifications)
