@@ -8,17 +8,20 @@
 
 
 ## Work Experience
-**Revenue Management Analyst Intern @ Roland Foods (_May 2024 - Present_)**
-- Designed and maintained Tableau dashboards for the Active Item Report, ensuring data integrity through logic checks and regular updates, facilitating informed decision-making
-- Analyzed Contracts and Claims data to develop a revenue forecasting model, providing actionable insights for future sales and revenue planning
+**Data Science Intern- Revenue Management @ Roland Foods (_May 2024 - Present_)**
+- Developed an end-to-end summarization tool using Generative AI (RAG, T5) and NLP (SpaCy) for targeted Claims and Contracts retrieval reducing document review time, Integrated user-friendly deployment via Flask
+- Developed and implemented a demand and supply replenishment tool with automated emails using Power Automate, leading to a $300K inventory reduction in 6 weeks by analyzing stock levels and identifying excess inventory, improving turnover and communication efficiency
+- Created pricing models in Python for Excessive, Discontinued, and Expired (EDE) items to maximize revenue from the EDE product pipeline
+- Redesigned and updated the Active Items Report using D365, ensuring data integrity through logic checks and regular updates in Tableau, facilitating informed decision-making across departments
 
-**Operations Analyst @ Statiq (_November 2021 - August 2023_)**
-- Implemented supervised learning for EV charging operations, achieving an 18% downtime reduction with 92% accuracy in real-time fault detection
-- Led a team of 5 to build the Charger Tracking System using tools like Power Automate, QuickSight, and MS Excel and SQL in use by 6 departments of the organization; reduced TAT time by 12 days, cutting down the number of internal emails by 78%
+**Technicala Business Analyst @ Statiq (_November 2021 - August 2023_)**
+- Developed an automated NLP pipeline using TextBlob for sentiment analysis and CountVectorizer for keyword extraction to transcribe and analyze customer service calls, assess representative performance, and identify product-related issues
+- Led project management of the Charger Tracking System using tools like Power Automate, QuickSight, and MS Excel in use by 6 departments of the organization; reduced TAT time by 12 days, cutting down the number of internal emails by 78%
 - Executed exploratory data analysis to understand historical supply chain performance and forecasting future demand for Chargers, resulting in a 15% reduction in stockouts and excess inventory
 - Utilized and deployed ML models for analyzing transportation, achieving a 20% reduction in lead times and cost savings
 - Automated Workflow Processes, Reporting, Task and Inventory Management using Power Automate and Zapier, resulting in real-time KPI tracking for project managers, streamlining routine and manual tasks, reducing errors and improving efficiency
-- Utilized SQL extensively in day-to-day work for data querying, manipulation, and analysis, enabling efficient extraction of insights and support for decision-making processes.
+- Utilized SQL extensively in day-to-day work for data querying, manipulation, and analysis, enabling efficient extraction of insights and support for decision-making processes
+- Implemented supervised learning for EV charging operations, achieving an 18% downtime reduction with 92% accuracy in real-time fault detection
   
 **Business Intelligence Analyst @ Statiq (_August 2021 - November 2021_)**
 - Examined market strategies by analyzing competitor products; identified and extracted data metrics using Python for web scrapping, performed Exploratory Data Analysis, drove Business development strategies by tracking insights
@@ -33,6 +36,12 @@
 
 
 ## Projects
+### AI Powered Customer Support Chatbot: BrewAI
+
+Developed an end-to-end personalized AI chatbot for a coffee shop using PyTorch and NLTK, incorporating a feedforward neural network and NLP techniques like tokenization, stemming, and bag-of-words to improve customer interactions. This chatbot was designed to handle queries about menu items, store locations, and promotions, providing real-time responses directly on the website. With an intent recognition accuracy of 85%, the system reduced query resolution time by 20%. In its first three months, the chatbot processed over 2,000 inquiries, reducing human intervention by 30% and boosting customer satisfaction by 25% based on follow-up surveys. As an end-to-end project, I managed everything from data collection and model training to deployment and ongoing optimization, enhancing both user experience and operational efficiency
+
+
+
 ### Predictive Insights: NYC Taxi Tip Forecasting and Receipt Probability Analysis
 [Publication](https://github.com/Musksss/NYC-Taxi-Tip-Forecasting))
 
@@ -78,25 +87,27 @@ Employing **R** for analysis, this research study delved into pertinent inquirie
 
 
 ## Skills
+**Machine Learning** (Supervised & Unsupervised Learning, Classification, Regression, Clustering)
+**Data Modeling** (Feature Engineering, Model Evaluation, Hyperparameter Tuning)
+**Deep Learning** (Neural Networks, CNNs, RNNs, LSTMs, GANs)
+**Natural Language Processing** (Text Preprocessing, Tokenization, Stemming, Named Entity Recognition, Sentiment Analysis, Word Embeddings, Transformers, RAG – Retrieval-Augmented Generation, Langchain)
+**Artificial Intelligence** (AI Model Development, Reinforcement Learning, Generative AI)
+**Research Design & Managing Data** (Data Wrangling, Data Cleaning, Experimental Design)
+**Advanced Statistical Analysis** (Hypothesis Testing, A/B Testing, Probability, Time Series Analysis)
 
-- Machine Learning
-- Data Modeling
-- Deep Learning
-- Natural Language Processing
-- Research Design, Managing Data
-- Advanced Statistical Analysis
+## Applications and Technologies
+**Python** (Pandas, NumPy, Matplotlib, scikit-learn, TensorFlow, PyTorch, NLTK, spaCy, Hugging Face)
+**Data Visualization** (Tableau, Power BI, QuickSight, MS Excel, QlikView, Matplotlib, Seaborn)
+**SQL** (MySQL, PostgreSQL, SQL Server, Oracle)
+**R** (Tidyverse, randomForest, Caret, Shiny, ggplot2)
+**Cloud Platforms** (AWS, GCP, Azure)
+**Big Data Technologies** (Hadoop, Spark, Pyspark, MLlib)
+**NoSQL Databases** (MongoDB, Neo4j)
+**MLOps** (Model Deployment, Docker, Kubernetes, AWS Sagemaker, GCP AI Platform)
+**Version Control** (Git, GitHub, GitLab)
 
-### Applications and Technologies
+### Other Applications and Tools: MS PowerPoint, Jira, Confluence, Salesforce, MS Office, Zapier, Mailchimp, HubSpot, Docker, Kubernetes
 
-- Python (Pandas, Matplotlib, scikit-learn, NumPy)	•	Data Visualization (Tableau, Power BI, QuickSight, MS Excel, QlikView)
-- SQL (MySQL, PostgreSQL, SQL Server, Oracle)	•	Problem Solving and Critical Thinking
-- R (Tidyverse, randomForest, Caret, Shiny)	•	Strong Verbal & Written Communication
-- NoSQL (Mongo DB, Neo4j, Hadoop)
-
-**Other Applications and Tools:** MS PowerPoint, Jira, Confluence, Salesforce, MS office, Zapier, Mailchimp, HubSpot, Github, Docker, Hadoop, Pyspark, MLlib
-
-### CERTIFICATIONS
-
-- Google Data Analytics Professional Certificate (Coursera, 2022)
-- Google Advanced Data Analytics Professional Certificate (Coursera ,2021)
+### Certifications
+- Google Data Analytics Professional Certificate (Coursera, 2022) ![License](https://www.coursera.org/account/accomplishments/professional-cert/82M75FQAEJ7C)
 - IBM Data Science (Coursera, 2022)
