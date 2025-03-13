@@ -19,20 +19,25 @@
 
 
 ## Work Experience
-**Data Science Intern- Revenue Management @ Roland Foods (_May 2024 - August 2024_)**
-- Developed an end-to-end summarization tool using **Generative AI** (RAG, T5) and **NLP** (SpaCy) for targeted Claims and Contracts retrieval reducing document review time, Integrated user-friendly deployment via Flask
-- Developed and implemented a demand and supply replenishment tool with automated emails using Power Automate, leading to a $300K inventory reduction in 6 weeks by analyzing stock levels and identifying excess inventory, improving turnover and communication efficiency
-- Created pricing models in Python for Excessive, Discontinued, and Expired (EDE) items to maximize revenue from the EDE product pipeline
-- Redesigned and updated the Active Items Report using D365, ensuring data integrity through logic checks and regular updates in Tableau, facilitating informed decision-making across departments
+**Data Analyst Intern- Revenue Management @ Roland Foods (_May 2024 - August 2024_)**
+- Redesigned the Active Items Report in D365, ensuring accurate & updated ERP data for streamlined cross-departmental operations
+-	Analyzed claims data to identify inaccuracies across datasets, detecting patterns to correct data flow into Tableau via the data warehouse, Identified a 7% decrease in quantity, enhancing data integrity and reporting accuracy
+-	Created and presented PowerPoint decks to Director of Revenue Management and Chief Operations Officer for identifying opportunities 
+-	Delivered actionable insights by analyzing +5 million Contract and Claims records with Tableau, Excel, and Python to identify pricing and quantity deviations
 
-**Technicala Business Analyst @ Statiq (_November 2021 - August 2023_)**
-- Developed an **automated NLP pipeline** using TextBlob for **sentiment analysis** and **CountVectorizer** for keyword extraction to transcribe and analyze customer service calls, assess representative performance, and identify product-related issues
-- Led project management of the Charger Tracking System using tools like Power Automate, QuickSight, and MS Excel in use by 6 departments of the organization; reduced TAT time by 12 days, cutting down the number of internal emails by 78%
-- Executed exploratory data analysis to understand historical supply chain performance and forecasting future demand for Chargers, resulting in a 15% reduction in stockouts and excess inventory
-- Utilized and deployed ML models for analyzing transportation, achieving a 20% reduction in lead times and cost savings
-- Automated Workflow Processes, Reporting, Task and Inventory Management using Power Automate and Zapier, resulting in real-time KPI tracking for project managers, streamlining routine and manual tasks, reducing errors and improving efficiency
-- Utilized SQL extensively in day-to-day work for data querying, manipulation, and analysis, enabling efficient extraction of insights and support for decision-making processes
-- Implemented supervised learning for EV charging operations, achieving an 18% downtime reduction with 92% accuracy in real-time fault detection
+
+
+**Operations Business Analyst @ Statiq (_November 2021 - August 2023_)**
+-	Leveraged Python to build predictive models, improving demand forecasting accuracy for EV chargers by 23% & reducing excess inventory
+-	Reduced downtime by 18% using NLP (TextBlob) and supervised learning to analyze customer service calls and EV charging operations
+-	Improved stock efficiency by 15% through exploratory data analysis of historical supply chain performance and demand forecasting
+-	Decreased lead times by 20% using Python to deploy machine learning models for transportation analysis
+-	Led training sessions on Power BI for 11 end-users, increasing tool adoption by 26% & enhancing the Data team's reporting capabilities
+-	Automated reports and streamlined internal workflows by developing a Charger Tracker using Excel, Macros, and Zapier, reducing charger setup turnaround time by 12 days, cutting internal emails by 78%, and saving 30+ man-hours per week across 5 departments
+-	Integrated RESTful APIs into Python-based data pipelines to extract data from Google Maps and OpenWeather APIs, enabling real-time analytics in Tableau, reducing manual effort by 30%, and optimizing charger maintenance schedules and installation route planning
+-	Designed and optimized complex SQL queries in PostgreSQL, reducing query execution time by more than 50%, boosting database efficiency for over 10,000 users, and ensuring accurate and seamless data flow across systems
+
+
   
 **Business Intelligence Analyst @ Statiq (_August 2021 - November 2021_)**
 - Examined market strategies by analyzing competitor products; identified and extracted data metrics using Python for web scrapping, performed Exploratory Data Analysis, drove Business development strategies by tracking insights
@@ -41,9 +46,12 @@
 - Collaborated with cross-functional teams to design and maintain dashboards and reports for Department heads and C-level executives using Power BI and Amazon Quicksight
 
 **Market Research Analyst @ Publicis Groupe, Arc Worldwide (_June 2020 - July 2021_)**
-- Created a marketing mix model by leveraging regression analysis to optimize paid ads budget leading to a decrease in spending by 7% for HP India
-- Performed multiple regression analysis on the NPS score of HP retail stores in Karnataka and suggested corrective market strategies led to an increase of 6% in NPS score in 4-months
-- Strategized and analyzed the performance of Digital campaigns for Raskik, generating 73% surge in followers on Facebook and Instagram along with a 21% increase in website traffic
+-	Performed EDA on IoT datasets using SQL and Python to drive business strategies & sales targets, resulting in 17% revenue increase
+-	Developed real-time supply chain dashboards in Google BigQuery for Statiq Circle, reducing bottleneck identification time by 3 days
+-	Built Power BI and QuickSight Dashboards to track KPIs for C-level Executives to improve operational efficiency of +200 Employees
+-	Implemented and trained data governance policies to ensure data quality and compliance with industry standards for an early-stage start-up
+-	Created & maintained + 150 SOPs for various departments using Confluence & SharePoint, optimizing operational workflow in the start-up
+
 
 
 ## Projects
